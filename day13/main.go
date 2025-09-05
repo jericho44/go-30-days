@@ -13,6 +13,6 @@ func (u User) Introduce() {
 }
 
 func main() {
-	u := User{"Rico", 27}
+	u := User{"Budi", 27}
 	u.Introduce()
 }
